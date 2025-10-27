@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "1761500557014",
+    "username": "abhi",
+    "email": "akshatavaddodagi7@gmail.com",
+    "password": "$2a$10$s7lZRds..gn2Glv1/UesX..FdFvFx.Iz2qNmWaAuxtWz8jRrZAWHW",
+    "preferences": {
+      "theme": "light"
+    },
+    "createdAt": "2025-10-26T17:42:37.015Z"
+  }
+]

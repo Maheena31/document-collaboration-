@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "1761500575183",
+    "title": "Untitled Document",
+    "content": "",
+    "owner": "1761500557014",
+    "collaborators": [],
+    "isPublic": false,
+    "version": 1,
+    "createdAt": "2025-10-26T17:42:55.183Z",
+    "lastModified": "2025-10-26T17:42:55.184Z"
+  },
+  {
+    "_id": "1761500575502",
+    "title": "Untitled Document",
+    "content": "<p>sghxhaFzXCHD</p>",
+    "owner": "1761500557014",
+    "collaborators": [],
+    "isPublic": false,
+    "version": 5,
+    "createdAt": "2025-10-26T17:42:55.502Z",
+    "lastModified": "2025-10-26T17:43:16.238Z"
+  }
+]
